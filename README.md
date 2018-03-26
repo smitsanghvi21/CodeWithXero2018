@@ -37,3 +37,4 @@
 
 ## University of Waikato Students!
 * Arun 
+* Smit
